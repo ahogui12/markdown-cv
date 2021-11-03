@@ -12,7 +12,7 @@ Devops Engineer.
 ## Professional experience
 `Jul 2018 - now`
 __Devops Engineer, Black Tiger, Paris, France__
-- Development of Infrastructure as Code tools to ease deployment of vMWare Virtual Machine with Terraform, Packer, Ansible
+- Development of Infrastructure as Code tools to ease deployment of VMware Virtual Machine with Terraform, Packer, Ansible
 - Implementation of a centralised platform and processes for deploying microservices for customers
 - Introduction of security policies, from development environments to production
 - Configuration and Production launch of new microservices
@@ -21,7 +21,7 @@ __Devops Engineer, Black Tiger, Paris, France__
 `Oct 2015 - Jul 2018`
 __Software Devlopment Engineer, Amadeus IT Group, Nice, France__
 - Developed Database as a Service solutions in Cloud
-- Managed a project for tooling and proceedures to configue Middleware components
+- Managed a project for tooling and implementing procedures to configue Middleware components for Docker and Kubernetes
 - Developed and maintained a Message Queuing software
 - Organized SCRUM/Kanban meetings and internal trainings
 
@@ -38,13 +38,13 @@ __Master Degree in Computer Science for Decision Support, IMT Atlantique, Nantes
 
 ## Skills
 ### General
-- Analytic
+- Analytical and problem solving skills
 - Team spirit
-- Open minded
+- Open to all opinions
 
 ### Technical
 - Python, Golang, Bash, Java
-- Kubernetes, Terraform, Ansible, Docker, Linux
+- Kubernetes, Terraform, Ansible, Docker, Linux, VMware vSphere
 
 ### Languages
 - French and English
@@ -61,7 +61,7 @@ __Master Degree in Computer Science for Decision Support, IMT Atlantique, Nantes
 - Personal Development
 - Video Games
 - Cooking
-- Hacking
+- Cybersecurity
 
 <!-- ### Footer
 
