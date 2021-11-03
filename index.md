@@ -9,7 +9,7 @@ Devops Engineer.
 <a href="ahoguin@hotmail.com">ahoguin@hotmail.com</a>
 </div>
 
-## Professional experience
+## Experience
 `Jul 2018 - now`
 __Devops Engineer, Black Tiger, Paris, France__
 - Development of Infrastructure as Code tools to ease deployment of VMware Virtual Machine with Terraform, Packer, Ansible
