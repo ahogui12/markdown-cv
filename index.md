@@ -31,7 +31,7 @@ __Software Devlopment Engineer, Amadeus IT Group, Nice, France__
 - Organized SCRUM/Kanban meetings and internal trainings
 
 `Mar 2015 - Aug 2015`
-__Final-year intership, CGI, Carquefou, France__
+__Final-year internship, CGI, Carquefou, France__
 - Set up Big Data environments in order to process data with Hadoop, Spark, Impala, HBase
 - Compared computing, and storing, performances of various Big Data tools
 
@@ -48,17 +48,11 @@ __Master Degree in Computer Science for Decision Support, IMT Atlantique, Nantes
 - Open minded
 
 ### Technical
-- Python
-- Kubernetes
-- Terraform
-- Linux
-- Ansible
-- Golang
-- Java
+- Python, Golang, Bash, Java
+- Kubernetes, Terraform, Ansible, Docker, Linux
 
 ### Languages
-- French
-- English
+- French and English
 
 ## Interests
 ### Sports
