@@ -9,11 +9,6 @@ Devops Engineer.
 <a href="ahoguin@hotmail.com">ahoguin@hotmail.com</a>
 </div>
 
-
-## Currently
-
-Standing on the shoulders of giants
-
 ## Professional experience
 `Jul 2018 - now`
 __Devops Engineer, Black Tiger, Paris, France__
