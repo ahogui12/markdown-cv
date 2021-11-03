@@ -1,13 +1,12 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Alexandre Hoguin's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Alexandre Hoguin
+Devops Engineer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="ahoguin@hotmail.com">ahoguin@hotmail.com</a>
 </div>
 
 
@@ -15,74 +14,65 @@ Physicist, Mathematician, Cambridge professor.
 
 Standing on the shoulders of giants
 
-### Specialized in
+## Professional experience
+`Jul 2018 - now`
+__Devops Engineer, Black Tiger, Paris, France__
+- Development of Infrastructure as Code tools to ease deployment of vMWare Virtual Machine with Terraform, Packer, Ansible
+- Implementation of a centralised platform and processes for deploying microservices for customers
+- Introduction of security policies, from development environments to production
+- Configuration and Production launch of new microservices
+- Providing Operational and technical support
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`Oct 2015 - Jul 2018`
+__Software Devlopment Engineer, Amadeus IT Group, Nice, France__
+- Developed Database as a Service solutions in Cloud
+- Managed a project for tooling and proceedures to configue Middleware components
+- Developed and maintained a Message Queuing software
+- Organized SCRUM/Kanban meetings and internal trainings
 
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+`Mar 2015 - Aug 2015`
+__Final-year intership, CGI, Carquefou, France__
+- Set up Big Data environments in order to process data with Hadoop, Spark, Impala, HBase
+- Compared computing, and storing, performances of various Big Data tools
 
 ## Education
+`Sep 2012 - Aug 2015`
+__Master Degree in Computer Science for Decision Support, IMT Atlantique, Nantes, France__
+- Mastered in Computer Science for decision support
+- Knowledges in Algorithms, AI, Constraints Solving methods, Computer Science
 
-`1654-1660`
-__The King's School, Grantham.__
+## Skills
+### General
+- Analytic
+- Team spirit
+- Open minded
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+### Technical
+- Python
+- Kubernetes
+- Terraform
+- Linux
+- Ansible
+- Golang
+- Java
 
-- Sizar
+### Languages
+- French
+- English
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Interests
+### Sports
+- Mixed Martial Arts
+- Calisthenics
+- Trail running
+- Bouldering
+- Yoga
 
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+### Hobbies
+- Personal Development
+- Video Games
+- Cooking
+- Hacking
 
 <!-- ### Footer
 
